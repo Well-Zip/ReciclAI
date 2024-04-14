@@ -4,7 +4,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [O que foi utilizado](#-o-que-foi-utilizado)
 - [Recomendações](#-recomendações)
-- [Requisitos do projeto](#-requisitos-do-projeto)
+- [Requisitos do projeto](#Requisitos-do-projeto)
 - [Instalação dos Requisitos](#-instalacao-dos-requisitos)
 - [Como executar o projeto](#-como-executar-o-projeto)
 
