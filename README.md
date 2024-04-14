@@ -61,7 +61,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ```bash
 # Clonando o repositório
-$ git clone 
+$ git clone https://github.com/Well-Zip/ReciclAI.git
 
 # Entrando no diretório  
 $ cd ReciclAI
