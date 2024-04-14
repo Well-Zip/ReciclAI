@@ -5,7 +5,7 @@
 - [O que foi utilizado](#-o-que-foi-utilizado)
 - [Recomendações](#-recomendações)
 - [Requisitos do projeto](#-requisitos-do-projeto)
-- [Instalação dos Requisitos](#-instalação-dos-requisitos)
+- [Instalação dos Requisitos](#-instalacao-dos-requisitos)
 - [Como executar o projeto](#-como-executar-o-projeto)
 
 
@@ -36,7 +36,7 @@ pip install virtualenv
 ## Requisitos do projeto
 
 
-### Instalação dos Requisitos
+### Instalacao dos Requisitos
 
 ```bash
 pip install -r requirements.txt
